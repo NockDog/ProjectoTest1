@@ -1,0 +1,7 @@
+C:\Users\rtbri\desktop\Tarea\ProyectoMatricula\ProyectoMatricula\obj\Debug\ProyectoMatricula.csproj.AssemblyReference.cache
+C:\Users\rtbri\desktop\Tarea\ProyectoMatricula\ProyectoMatricula\obj\Debug\ProyectoMatricula.csproj.CoreCompileInputs.cache
+C:\Users\rtbri\desktop\Tarea\ProyectoMatricula\ProyectoMatricula\bin\Debug\ProyectoMatricula.exe.config
+C:\Users\rtbri\desktop\Tarea\ProyectoMatricula\ProyectoMatricula\bin\Debug\ProyectoMatricula.exe
+C:\Users\rtbri\desktop\Tarea\ProyectoMatricula\ProyectoMatricula\bin\Debug\ProyectoMatricula.pdb
+C:\Users\rtbri\desktop\Tarea\ProyectoMatricula\ProyectoMatricula\obj\Debug\ProyectoMatricula.exe
+C:\Users\rtbri\desktop\Tarea\ProyectoMatricula\ProyectoMatricula\obj\Debug\ProyectoMatricula.pdb
